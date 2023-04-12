@@ -1,1 +1,1 @@
-/*TODO: add an img fro the project*/
+/*TODO: add an img for the project*/
