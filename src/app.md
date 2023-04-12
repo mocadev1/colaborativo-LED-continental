@@ -1,1 +1,1 @@
-/*TODO: Set app headers*/
+/*TODO: Set app headers, including the CORS */
