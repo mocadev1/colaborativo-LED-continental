@@ -2,5 +2,4 @@
 
 In the front-end we'll be using react with **functional components**.
 For the back-end we'll be using express.
-
-A new line.
+And finally for the CSS we'll be using **tailwindCSS**.
